@@ -45,6 +45,7 @@ Transform the array into an object, where the keys are IDs and the values are th
 
 
 <h1>CODE CHALLENGE RESULTS</h1>
+<a href="https://github.com/howlcipher/Made-In-Front-End-Shopify-Developer-Code-Challenge/blob/master/index.js">ALL CODE IS IN THE INDEX.JS FILE</a>
 <h2>What to expect!</h2>
 <ul>
   <li>A menu will appear when the code is run in.</li>
