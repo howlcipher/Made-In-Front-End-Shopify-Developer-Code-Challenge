@@ -43,3 +43,20 @@ Return an array of only the products that are priced greater than or equal to 75
 Return an array of only the products that are heavier than 1.8.
 Transform the array into an object, where the keys are IDs and the values are the remaining object properties
 
+
+<h1>CODE CHALLENGE RESULTS</h1>
+A menu will appear when the code is run.  Selecting options 1 - 3 allow the user to see the results of the corresponding exercise.  Select 4 will show all results and 5 will quit.
+
+<h2>EXERCISE 1</h2>
+CODE LINE: 2
+<h2>EXERCISE 2</h2>
+CODE LINE: 17
+<h2>EXERCISE 3</h2>
+CODE LINE: 43
+<ul>
+<li>EXERCISE 3.1
+CODE LINE: 52</li>
+<li>EXERCISE 3.2
+CODE LINE: 66</li>
+<li>EXERCISE 3.3
+CODE LINE: 80</li>
