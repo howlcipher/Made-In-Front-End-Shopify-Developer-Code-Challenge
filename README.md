@@ -45,7 +45,13 @@ Transform the array into an object, where the keys are IDs and the values are th
 
 
 <h1>CODE CHALLENGE RESULTS</h1>
-A menu will appear when the code is run.  Selecting options 1 - 3 allow the user to see the results of the corresponding exercise.  Select 4 will show all results and 5 will quit.
+<h2>What to expect!</h2>
+<ul>
+  <li>A menu will appear when the code is run in.</li>
+ <li>In Node input will be in the terminal and in the console input will be in the prompt window.  </li>
+<li>Selecting options 1 - 3 allow the user to see the results of the corresponding exercise.  </li>
+<li>Select 4 will show all results.</li>
+<li>Select 5 and the program will quit.</li>
 
 <h2>EXERCISE 1</h2>
 CODE LINE: 2
