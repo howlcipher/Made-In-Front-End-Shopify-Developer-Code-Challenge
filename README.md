@@ -15,20 +15,20 @@
 
 Write a function that accepts a single string argument, and returns a boolean indicating whether the string is a palindrome.
 
-It should satisfy these test cases:        
-"oscar" -> false
-"aaaa" -> true
-"Racecar" -> true
-"Madam, I'm Adam" -> true
+It should satisfy these test cases:
+"oscar" -> false<br>
+"aaaa" -> true<br>
+"Racecar" -> true<br>
+"Madam, I'm Adam" -> true<br>
 
 
 <strong>Exercise #2: Fizzbuzz</strong>
 
 Counting from 0 to 100, print out each number to the console, making the following substitutions …
 
-… If the number is a multiple of 3, print `fizz` in place of the number
-… If the number is a multiple of 5, print `buzz` in place of the number
-… If the number is a multiple of both 3 and 5, print `fizzbuzz` in place of the number
+… If the number is a multiple of 3, print `fizz` in place of the number<br>
+… If the number is a multiple of 5, print `buzz` in place of the number<br>
+… If the number is a multiple of both 3 and 5, print `fizzbuzz` in place of the number<br>
 … Otherwise, just print the number itself.
 
 Each entry should be printed to a new line.
